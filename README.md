@@ -1,4 +1,4 @@
-## README
+## README 
 This repository contains the code for the paper "Learning Uncertainty with Artificial Neural Networks for Improved Remaining Time Prediction of Business Processes". There are five notebooks.
 
 "CNN" is the convolutional neural network we used in our experiments.
